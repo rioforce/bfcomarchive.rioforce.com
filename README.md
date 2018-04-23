@@ -1,5 +1,5 @@
-# brickfilmscom.rioforce.com
-The Old Brickfilms.com Database Archive
+# bfcomarchive.rioforce.com
+The Old Brickfilms Website Database Archive
 
 
 # Credits
